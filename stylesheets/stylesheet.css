@@ -477,6 +477,13 @@ header h2 {
   letter-spacing: 0;
 }
 
+nav li {
+    display: inline;
+    border: solid;
+    border-width: 1px 1px 0 1px;
+    margin: 0 5px 0 0;
+}
+
 .inner {
   position: relative;
   width: 940px;
