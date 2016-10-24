@@ -1,2 +1,2 @@
-# database.io
+# github.io
 HGP transaction database website shell.
